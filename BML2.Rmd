@@ -25,7 +25,7 @@ knitr::include_graphics("images/CambridgeFB.jpg")
 class: inverse, center, middle
 
 ```{r, out.width = "200px", echo=FALSE}
-knitr::include_graphics("images/hexRT.png")
+knitr::include_graphics("images/hexRTWhiteTransp.png")
 ```
 ### Are journalist suitably equiped to confront this issue? 
 
@@ -94,7 +94,7 @@ Our presentation: <https://tanjakec.github.io/BML/BML2.html>
 @duskomedic
 
 ```{r, out.width = "100px", echo=FALSE, fig.align = 'center'}
-knitr::include_graphics("images/hexRT.png")
+knitr::include_graphics("images/hexRTWhiteTransp.png")
 ```
 Slides created via `R` package [**xaringan**](https://github.com/yihui/xaringan).
 
