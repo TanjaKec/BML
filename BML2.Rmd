@@ -1,7 +1,8 @@
 ---
 title: "R Toolbox for journalists?" 
-date: "Tatjana & Dusko"
-author: R🛠💻
+date: "Tatjana :: Data Scientist"
+subtitle: R🛠💻
+author: "Dusko :: Journalist"
 output:
   xaringan::moon_reader:
     css: ["default", "css/ohsu.css", "css/ohsu-fonts.css"]
